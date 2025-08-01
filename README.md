@@ -2,7 +2,7 @@
 
 Repositorio para el desarrollo de la Aplicación para el Centro de Estudios para el Desarrollo Municipal y Políticas Públicas de la Universidad Autónoma de Chiapas
 
-<img src="https://github.com/marcosjavierch/AppCedesUNACH/blob/main/assets/cedesicono.jpg" width="200px" alt="logotipo App"> </br>
+<img src="https://github.com/MarcosHdez015/AppCedesUNACH/blob/main/assets/cedesicono.jpg" width="200px" alt="logotipo App"> </br>
 
 <h3 class="text-center">Acerca de CEDES UNACH.</h3></p>
 <strong>Descripción</strong></p>
